@@ -1,0 +1,13 @@
+{
+  "name": "gitlab-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "steven",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "qs": "^6.9.1",
+  },
+  "devDependencies": {}
+}

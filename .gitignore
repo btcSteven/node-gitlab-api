@@ -1,0 +1,17 @@
+
+# 忽略 文件夹
+node_modules/
+
+# 忽略 文件.DS_store
+.DS_store
+.idea
+dist/
+.vscode/
+yarn.lock
+package-lock.json
+src/mconlineBackend/pages/**/*.js
+
+
+.project
+
+
